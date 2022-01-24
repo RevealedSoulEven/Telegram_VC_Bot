@@ -42,7 +42,7 @@ Read this -> https://t.me/TGVCSupport/17542
 
 #### Generate String session [IMPORTANT]
 
-Download this file [generate_string_session.py](https://raw.githubusercontent.com/thehamkercat/Telegram_VC_Bot/master/generate_string_session.py)
+Download this file [generate_string_session.py](https://raw.githubusercontent.com/RevealedSoulEven/Telegram_VC_Bot/master/generate_string_session.py)
 
 
 ```sh
